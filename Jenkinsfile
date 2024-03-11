@@ -8,7 +8,7 @@ pipeline{
     }
 
     environment {
-        APP_NAME = "Java-web-application"
+        APP_NAME = "java-web-application"
         RELEASE = "1.0.0"
         DOCKER_USER = "elliegwon"
         DOCKER_PASS = 'dockerhub'
